@@ -1,0 +1,10 @@
+.product-container{
+  display: flex;
+  .shop-container{
+    width: 75%;
+    border-right: 3px solid lightblue;
+  }
+  .cart-container{
+    width: 25%;
+  }
+}

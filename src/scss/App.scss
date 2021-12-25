@@ -1,0 +1,17 @@
+@use 'test';
+h1{
+  color: rgb(46, 10, 129);
+}
+h3{
+  color: test.$h3Color;
+}
+p{
+  color: test.$pColor;
+}
+.wrapper{
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
