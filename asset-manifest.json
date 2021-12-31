@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ema-jhon/static/css/main.2abd67b1.css",
+    "main.js": "/ema-jhon/static/js/main.f6a8894d.js",
+    "static/js/787.2806a47a.chunk.js": "/ema-jhon/static/js/787.2806a47a.chunk.js",
+    "static/media/logo.png": "/ema-jhon/static/media/logo.0dd9a5104bbc1da3e6ae.png",
+    "index.html": "/ema-jhon/index.html",
+    "main.2abd67b1.css.map": "/ema-jhon/static/css/main.2abd67b1.css.map",
+    "main.f6a8894d.js.map": "/ema-jhon/static/js/main.f6a8894d.js.map",
+    "787.2806a47a.chunk.js.map": "/ema-jhon/static/js/787.2806a47a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abd67b1.css",
+    "static/js/main.f6a8894d.js"
+  ]
+}
